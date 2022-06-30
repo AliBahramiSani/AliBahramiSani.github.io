@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>note | Ali Bahrami Sani</title>
+    <link>https://example.com/tag/note/</link>
+      <atom:link href="https://example.com/tag/note/index.xml" rel="self" type="application/rss+xml" />
+    <description>note</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu3ee090a82bba3dbdf57b147f805626c9_125959_512x512_fill_lanczos_center_3.png</url>
+      <title>note</title>
+      <link>https://example.com/tag/note/</link>
+    </image>
+    
+    <item>
+      <title>Energy Subsidy in Iran</title>
+      <link>https://example.com/project/macro2/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/macro2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1tHXls31IgIlzwVzQ1IwHuvQEL_C7-KY0/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Energy Subsidy in Iran&lt;/strong&gt;&lt;/a&gt;, Farsi Note&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
