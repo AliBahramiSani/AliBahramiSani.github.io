@@ -29,6 +29,23 @@
     </item>
     
     <item>
+      <title>Instrumented DD</title>
+      <link>https://example.com/project/ddiv/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ddiv/</guid>
+      <description>&lt;h2 id=&#34;instrumented-dd&#34;&gt;Instrumented DD&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mit.edu/~liebers/DDIV.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sally Hudson, Peter Hull, and Jack Liebersohn; Interpreting Instrumented Difference-in-Differences&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/16Q-a9xQRU3bX1o8vEmmg4o8X5SlBzi6-/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Clement de Chaisemartin; A note on instrumented difference in differences&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Softwares</title>
       <link>https://example.com/project/material/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
