@@ -36,6 +36,8 @@
   <url>
     <loc>https://example.com/project/teaching/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/project/test/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc></loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url>
