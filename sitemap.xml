@@ -6,8 +6,6 @@
   <url>
     <loc>https://example.com/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/project/teaching/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/project/example/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/project/macro2/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -24,8 +22,6 @@
   <url>
     <loc>https://example.com/tags/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/teaching/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -37,6 +33,8 @@
     <loc></loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/project/material/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/teaching/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><changefreq>weekly</changefreq></url>
   <url>
