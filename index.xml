@@ -13,15 +13,30 @@
     </image>
     
     <item>
-      <title>Datasets</title>
+      <title>Applied Econometrics</title>
+      <link>https://example.com/project/teaching/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/teaching/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;You can find your grades &lt;a href=&#34;https://github.com/AliBahramiSani/AliBahramiSani.github.io/blob/6ebd8f6f6df547eba39be1b98d8314dcb4ea0f23/Files/Appliec%20Econometrics%20Grades.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dataset</title>
       <link>https://example.com/project/example/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/example/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Household Expenditure and Income Survey (HEIS)
+&lt;li&gt;Datasets
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Household Expenditure and Income Survey (HEIS)&lt;/em&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://m-hoseini.github.io/HEIS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hoseini, Mohammad. (2021) &amp;ldquo;Iran Household Expenditure and Income surveys: Introduction and data cleaning&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/IPRCIRI/IRHEIS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Einian, Majid. &amp;ldquo;Iran Household Expenditure and Income surveys: Introduction and data cleaning&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/IPRCIRI/IRHEIS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Einian, Majid. &amp;ldquo;IRHEIS&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -67,6 +82,71 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/16Q-a9xQRU3bX1o8vEmmg4o8X5SlBzi6-/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Clement de Chaisemartin; A note on instrumented difference in differences&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://example.com/project/material/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/material/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Causal Inference using Stata, R and Python&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://theeffectbook.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;The Effect: An Introduction to Research Design and Causality&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLcTBLulJV_AK1hKtnO0-kYrU0D09K-kj8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;The Effect: YouTube&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stata&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.stata.com/bookstore/microeconometrics-stata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Microeconometrics Using Stata&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.researchgate.net/publication/5142868_A_Visual_Guide_to_Stata_Graphics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Mitchell, M. 2004. A Visual Guide to Stata Graphics. College Station, TX: Stata Press.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/url?q=https%3A%2F%2Fscholar.harvard.edu%2Ffiles%2Fmcgovern%2Ffiles%2Fpractical_introduction_to_stata.pdf&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AOvVaw133D8SGbhdcdRE_4UMfzzB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;A Practical Introduction to Stata, Mark E. McGovern, Harvard Center for Population and Development Studies.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/url?q=https%3A%2F%2Fpeople.ku.edu%2F~chkim%2Fsoc910%2Fnote%2FSoc910_Note_04_Weight.pdf&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AOvVaw2a1HJdTbA8oqxHC8iZ-kLw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;On weighting in STATA.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;R&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;R for Data Science.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tellingstorieswithdata.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Alexander, Rohan. Telling Stories with Data.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://m-hoseini.github.io/mysite/teaching.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hoseini, Mohammad. Teaching, Softwares, R.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://stata2r.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Translating Stata to R&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Python &amp;amp; Julia&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://quantecon.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Quantitative economics with Julia &amp;amp; Python by Tom Sargent, John Stachurski and, Jesse Perla. 2020.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/msu-econ-data-analytics/course-materials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Course Materials for Advanced Data Analytics in Economics.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/guipsamora/pandas_exercises&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Pandas Exercises.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -220,30 +300,6 @@ $$&lt;/p&gt;
       <link>https://example.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/project/material/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/material/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/project/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/teaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/project/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/test/</guid>
       <description></description>
     </item>
     
