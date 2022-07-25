@@ -20,6 +20,8 @@
   <url>
     <loc>https://example.com/tag/note/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/project/interactive/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/project/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/project/material/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -41,8 +43,6 @@
     <loc></loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/project/interactive/plain/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication_types/</loc><changefreq>weekly</changefreq></url>
   <url>
