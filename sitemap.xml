@@ -42,6 +42,8 @@
   <url>
     <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/project/interactive/plain/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/publication_types/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/</loc><changefreq>weekly</changefreq></url>
