@@ -88,15 +88,6 @@
     </item>
     
     <item>
-      <title>plain</title>
-      <link>https://example.com/project/interactive/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/interactive/</guid>
-      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;iframe height=&amp;#34;800&amp;#34; width=&amp;#34;100%&amp;#34; frameborder=&amp;#34;no&amp;#34; src=&amp;#34;https://https://0vtie6-ali-bahrami0sani.shinyapps.io/test1/&amp;#34;&amp;gt; &amp;lt;/iframe&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    
-    <item>
       <title>Software</title>
       <link>https://example.com/project/material/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
@@ -116,7 +107,7 @@
 &lt;p&gt;&lt;a href=&#34;https://www.stata.com/bookstore/microeconometrics-stata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Microeconometrics Using Stata&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.researchgate.net/publication/5142868_A_Visual_Guide_to_Stata_Graphics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Mitchell, M. 2004. A Visual Guide to Stata Graphics. College Station, TX: Stata Press.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.stata.com/bookstore/visual-guide-to-stata-graphics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Mitchell, M. 2022. A Visual Guide to Stata Graphics, Fourth Edition. College Station, TX: Stata Press.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.google.com/url?q=https%3A%2F%2Fscholar.harvard.edu%2Ffiles%2Fmcgovern%2Ffiles%2Fpractical_introduction_to_stata.pdf&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AOvVaw133D8SGbhdcdRE_4UMfzzB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;A Practical Introduction to Stata, Mark E. McGovern, Harvard Center for Population and Development Studies.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
@@ -158,6 +149,46 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/project/interactive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/interactive/</guid>
+      <description>&lt;h1 id=&#34;---&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;date-2022-06-30t000000z&#34;&gt;date: &amp;ldquo;2022-06-30T00:00:00Z&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;external_link-&#34;&gt;#external_link: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;image&#34;&gt;#image:&lt;/h1&gt;
+&lt;h1 id=&#34;--caption-photo-by-rawpixel-on-unsplash&#34;&gt;#  caption: Photo by rawpixel on Unsplash&lt;/h1&gt;
+&lt;h1 id=&#34;--focal_point-smart&#34;&gt;#  focal_point: Smart&lt;/h1&gt;
+&lt;h1 id=&#34;links&#34;&gt;#links:&lt;/h1&gt;
+&lt;h1 id=&#34;--icon-twitter&#34;&gt;#- icon: twitter&lt;/h1&gt;
+&lt;h1 id=&#34;--icon_pack-fab&#34;&gt;#  icon_pack: fab&lt;/h1&gt;
+&lt;h1 id=&#34;--name-follow&#34;&gt;#  name: Follow&lt;/h1&gt;
+&lt;h1 id=&#34;--url-httpstwittercomgeorgecushen&#34;&gt;#  url: &lt;a href=&#34;https://twitter.com/georgecushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/georgecushen&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;slides-example&#34;&gt;#slides: example&lt;/h1&gt;
+&lt;h1 id=&#34;summary-plain&#34;&gt;summary: plain&lt;/h1&gt;
+&lt;h1 id=&#34;tags&#34;&gt;tags:&lt;/h1&gt;
+&lt;h1 id=&#34;--note&#34;&gt;- note&lt;/h1&gt;
+&lt;h1 id=&#34;title-plain&#34;&gt;title: plain&lt;/h1&gt;
+&lt;h1 id=&#34;url_code-&#34;&gt;url_code: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;url_pdf-&#34;&gt;url_pdf: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;url_slides-&#34;&gt;url_slides: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;url_video-&#34;&gt;url_video: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;output&#34;&gt;output:&lt;/h1&gt;
+&lt;h1 id=&#34;blogdownhtml_page&#34;&gt;blogdown::html_page:&lt;/h1&gt;
+&lt;h1 id=&#34;toc-false&#34;&gt;toc: false&lt;/h1&gt;
+&lt;h1 id=&#34;-draft-true&#34;&gt;# draft: true&lt;/h1&gt;
+&lt;h1 id=&#34;runtime-shiny&#34;&gt;runtime: shiny&lt;/h1&gt;
+&lt;h1 id=&#34;----1&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-2&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-3&#34;&gt;```&lt;/h1&gt;
+&lt;h1 id=&#34;iframe-height800-width100-frameborderno-srchttpshttps0vtie6-ali-bahrami0sanishinyappsiotest1-iframe&#34;&gt;&lt;iframe height=&#34;800&#34; width=&#34;100%&#34; frameborder=&#34;no&#34; src=&#34;https://https://0vtie6-ali-bahrami0sani.shinyapps.io/test1/&#34;&gt; &lt;/iframe&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-4&#34;&gt;```&lt;/h1&gt;
 </description>
     </item>
     

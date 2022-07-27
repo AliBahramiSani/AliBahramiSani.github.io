@@ -39,14 +39,5 @@
 </description>
     </item>
     
-    <item>
-      <title>plain</title>
-      <link>https://example.com/project/interactive/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/interactive/</guid>
-      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;iframe height=&amp;#34;800&amp;#34; width=&amp;#34;100%&amp;#34; frameborder=&amp;#34;no&amp;#34; src=&amp;#34;https://https://0vtie6-ali-bahrami0sani.shinyapps.io/test1/&amp;#34;&amp;gt; &amp;lt;/iframe&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    
   </channel>
 </rss>
