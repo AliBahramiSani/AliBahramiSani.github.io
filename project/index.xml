@@ -13,19 +13,6 @@
     </image>
     
     <item>
-      <title>app</title>
-      <link>https://example.com/project/app/app/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/app/app/</guid>
-      <description>
-
-
-&lt;iframe width=&#34;700&#34; height=&#34;1000&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34; https://0vtie6-ali-bahrami0sani.shinyapps.io/Codes/&#34;&gt;
-&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Applied Econometrics</title>
       <link>https://example.com/project/teaching/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
@@ -72,7 +59,10 @@
       <link>https://example.com/project/exchange-rate-shock/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/exchange-rate-shock/</guid>
-      <description>&lt;ul&gt;
+      <description>&lt;p&gt;&lt;em&gt;Evaluating the impact of subsidized exchange rate on the evolution of prices and its welfare consequences&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Due to the economic shock following the United States withdrawal from the JCPOA, Iranian officials, to maintain the welfare situation of households, implemented a policy in which basic and essential commodities were subsidized by the public dollar, which was cheaper than the market dollar. Investigating the impact of this policy on the evolution of prices using the instrumented differences-in-differences approach, we see a 105% increase in price indexes in 12 months and a 52% increase in 6 months. Examining this policy’s welfare consequences via a static representative agent model, we find a welfare loss amounting to 4 Kg drop in consumption.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Find the text and presentations bellow&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/AliBahramiSani/AliBahramiSani.github.io/blob/85b2c6cfdb9acce4af0b4e782ec9f70a90ab14d9/Files/Presentations/Exchange%20rate%20shock/Under%20The%20Tyranny%20of%20a%20Policy.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Under The Tyranny of a Policy Presentation&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
