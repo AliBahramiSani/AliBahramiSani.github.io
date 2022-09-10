@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Ali Bahrami Sani</title>
-    <link>https://example.com/tags/</link>
-      <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alibahramisani.com/tags/</link>
+      <atom:link href="https://alibahramisani.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu04e901f49443bccd92886cffa13578b4_203533_512x512_fill_lanczos_center_3.png</url>
+      <url>https://alibahramisani.com/media/icon_hu04e901f49443bccd92886cffa13578b4_203533_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>https://example.com/tags/</link>
+      <link>https://alibahramisani.com/tags/</link>
     </image>
     
   </channel>

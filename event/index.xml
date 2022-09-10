@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Ali Bahrami Sani</title>
-    <link>https://example.com/event/</link>
-      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <title>Map | Ali Bahrami Sani</title>
+    <link>https://alibahramisani.com/event/</link>
+      <atom:link href="https://alibahramisani.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Map</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/icon_hu04e901f49443bccd92886cffa13578b4_203533_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://example.com/event/</link>
+      <url>https://alibahramisani.com/media/icon_hu04e901f49443bccd92886cffa13578b4_203533_512x512_fill_lanczos_center_3.png</url>
+      <title>Map</title>
+      <link>https://alibahramisani.com/event/</link>
     </image>
     
   </channel>

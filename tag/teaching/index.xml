@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>teaching | Ali Bahrami Sani</title>
-    <link>https://example.com/tag/teaching/</link>
-      <atom:link href="https://example.com/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alibahramisani.com/tag/teaching/</link>
+      <atom:link href="https://alibahramisani.com/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>teaching</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu04e901f49443bccd92886cffa13578b4_203533_512x512_fill_lanczos_center_3.png</url>
+      <url>https://alibahramisani.com/media/icon_hu04e901f49443bccd92886cffa13578b4_203533_512x512_fill_lanczos_center_3.png</url>
       <title>teaching</title>
-      <link>https://example.com/tag/teaching/</link>
+      <link>https://alibahramisani.com/tag/teaching/</link>
     </image>
     
     <item>
       <title>Applied Econometrics</title>
-      <link>https://example.com/project/teaching/</link>
+      <link>https://alibahramisani.com/project/teaching/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/teaching/</guid>
+      <guid>https://alibahramisani.com/project/teaching/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;You can find your grades &lt;a href=&#34;https://github.com/AliBahramiSani/AliBahramiSani.github.io/blob/6ebd8f6f6df547eba39be1b98d8314dcb4ea0f23/Files/Appliec%20Econometrics%20Grades.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;

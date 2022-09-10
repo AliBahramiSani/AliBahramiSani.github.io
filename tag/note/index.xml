@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>note | Ali Bahrami Sani</title>
-    <link>https://example.com/tag/note/</link>
-      <atom:link href="https://example.com/tag/note/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alibahramisani.com/tag/note/</link>
+      <atom:link href="https://alibahramisani.com/tag/note/index.xml" rel="self" type="application/rss+xml" />
     <description>note</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu04e901f49443bccd92886cffa13578b4_203533_512x512_fill_lanczos_center_3.png</url>
+      <url>https://alibahramisani.com/media/icon_hu04e901f49443bccd92886cffa13578b4_203533_512x512_fill_lanczos_center_3.png</url>
       <title>note</title>
-      <link>https://example.com/tag/note/</link>
+      <link>https://alibahramisani.com/tag/note/</link>
     </image>
     
     <item>
       <title>Energy Subsidy in Iran</title>
-      <link>https://example.com/project/macro2/</link>
+      <link>https://alibahramisani.com/project/macro2/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/macro2/</guid>
+      <guid>https://alibahramisani.com/project/macro2/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1tHXls31IgIlzwVzQ1IwHuvQEL_C7-KY0/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Energy Subsidy in Iran&lt;/strong&gt;&lt;/a&gt;, Farsi Note.&lt;/li&gt;
 &lt;/ul&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Exchange rate subsidy under the Rouhani administration</title>
-      <link>https://example.com/project/exchange-rate-shock/</link>
+      <link>https://alibahramisani.com/project/exchange-rate-shock/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/exchange-rate-shock/</guid>
+      <guid>https://alibahramisani.com/project/exchange-rate-shock/</guid>
       <description>&lt;p&gt;&lt;em&gt;Evaluating the impact of subsidized exchange rate on the evolution of prices and its welfare consequences&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Due to the economic shock following the United States withdrawal from the JCPOA, Iranian officials, to maintain the welfare situation of households, implemented a policy in which basic and essential commodities were subsidized by the public dollar, which was cheaper than the market dollar. Investigating the impact of this policy on the evolution of prices using the instrumented differences-in-differences approach, we see a 105% increase in price indexes in 12 months and a 52% increase in 6 months. Examining this policy’s welfare consequences via a static representative agent model, we find a welfare loss amounting to 4 Kg drop in consumption.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Find the text and presentations bellow&lt;/strong&gt;&lt;/p&gt;
@@ -39,6 +39,20 @@
 &lt;p&gt;&lt;a href=&#34;https://github.com/AliBahramiSani/AliBahramiSani.github.io/blob/7fba2906f17edd6bed3fb3812631a75b82341535/Files/Exchange%20rate%20shock/Under%20the%20Tyrranny%20of%20a%20Policy-%20report.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Under The Tyrrany of a Policy Report&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Iranography</title>
+      <link>https://alibahramisani.com/project/iranography/iranography/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://alibahramisani.com/project/iranography/iranography/</guid>
+      <description>
+
+
+&lt;p&gt;A work by Ali Naghizadeh, Ali Bahrami Sani, and Morteza Mohandes Mojarrad.&lt;/p&gt;
+&lt;iframe width=&#34;700&#34; height=&#34;1000&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://0vtie6-ali-bahrami0sani.shinyapps.io/Codes1/?_ga=2.2053173.583849565.1662811993-1655279387.1658762946&#34;&gt;
+&lt;/iframe&gt;
 </description>
     </item>
     
