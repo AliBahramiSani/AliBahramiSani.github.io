@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>material | Ali Bahrami Sani</title>
-    <link>https://alibahramisani.com/tag/material/</link>
-      <atom:link href="https://alibahramisani.com/tag/material/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alibahramisani.github.io/tag/material/</link>
+      <atom:link href="https://alibahramisani.github.io/tag/material/index.xml" rel="self" type="application/rss+xml" />
     <description>material</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alibahramisani.com/media/icon_hu04e901f49443bccd92886cffa13578b4_203533_512x512_fill_lanczos_center_3.png</url>
+      <url>https://alibahramisani.github.io/media/icon_hu04e901f49443bccd92886cffa13578b4_203533_512x512_fill_lanczos_center_3.png</url>
       <title>material</title>
-      <link>https://alibahramisani.com/tag/material/</link>
+      <link>https://alibahramisani.github.io/tag/material/</link>
     </image>
     
     <item>
       <title>Dataset</title>
-      <link>https://alibahramisani.com/project/example/</link>
+      <link>https://alibahramisani.github.io/project/example/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://alibahramisani.com/project/example/</guid>
+      <guid>https://alibahramisani.github.io/project/example/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Datasets
 &lt;ul&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Instrumented DD</title>
-      <link>https://alibahramisani.com/project/ddiv/</link>
+      <link>https://alibahramisani.github.io/project/ddiv/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://alibahramisani.com/project/ddiv/</guid>
+      <guid>https://alibahramisani.github.io/project/ddiv/</guid>
       <description>&lt;h2 id=&#34;instrumented-dd&#34;&gt;Instrumented DD&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Software</title>
-      <link>https://alibahramisani.com/project/material/</link>
+      <link>https://alibahramisani.github.io/project/material/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://alibahramisani.com/project/material/</guid>
+      <guid>https://alibahramisani.github.io/project/material/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Causal Inference using Stata, R and Python&lt;/p&gt;
