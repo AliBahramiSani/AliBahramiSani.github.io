@@ -767,18 +767,18 @@
 <p>HEIS is a Stata package for downloading and cleaning the Iranian household expenditure and income survey. Moreover, This package saves the tables of the dataset in <em>dta</em> format. For now, the dataset of 1394 is not available yet, but 1381-1400 are available.</p>
 <h4 id="installation">Installation</h4>
 <p>To install the package first you need to install &ldquo;github&rdquo; package:</p>
-<pre tabindex="0"><code>net install github, from(&#34;https://haghish.github.io/github/&#34;)
+<pre tabindex="0"><code class="language-{stata}" data-lang="{stata}">net install github, from(&#34;https://haghish.github.io/github/&#34;)
 </code></pre><p>Next, to download and install the &ldquo;HEIS&rdquo; package:</p>
-<pre tabindex="0"><code>github install Iran-Indicators/HEIS
+<pre tabindex="0"><code class="language-{stata}" data-lang="{stata}">github install Iran-Indicators/HEIS
 </code></pre><h4 id="quick-start">Quick Start</h4>
 <p>If you have the dataset; set the directory of your Stata on the folder contains you dataset.</p>
-<pre tabindex="0"><code>cd &#34;D:\data&#34;
+<pre tabindex="0"><code class="language-{stata}" data-lang="{stata}">cd &#34;D:\data&#34;
 </code></pre><p>If not, specify the directory you want to download a dataset and set the <em>data</em> option <em>&ldquo;true&rdquo;</em>.</p>
-<pre tabindex="0"><code>HEIS year, data(&#34;true&#34;)
+<pre tabindex="0"><code class="language-{stata}" data-lang="{stata}">HEIS year, data(&#34;true&#34;)
 </code></pre><p>For some years like 1380-1388, the weight of the observations are not included in the dataset. To solve the problem, you can use option <em>weight</em> and set it <em>&ldquo;true&rdquo;</em>.</p>
-<pre tabindex="0"><code>HEIS year, data(&#34;true&#34;) weight(&#34;true&#34;)
+<pre tabindex="0"><code class="language-{stata}" data-lang="{stata}">HEIS year, data(&#34;true&#34;) weight(&#34;true&#34;)
 </code></pre><p>In case you just need the weights:</p>
-<pre tabindex="0"><code>HEIS year, weight(&#34;true&#34;)
+<pre tabindex="0"><code class="language-{stata}" data-lang="{stata}">HEIS year, weight(&#34;true&#34;)
 </code></pre><p>For now, the dataset of 1394 is not available yet, but 1381-1400 are available.</p>
 <h3 id="license">License</h3>
 <p>Academic Free License v3.0</p>

@@ -24,18 +24,18 @@
 &lt;p&gt;HEIS is a Stata package for downloading and cleaning the Iranian household expenditure and income survey. Moreover, This package saves the tables of the dataset in &lt;em&gt;dta&lt;/em&gt; format. For now, the dataset of 1394 is not available yet, but 1381-1400 are available.&lt;/p&gt;
 &lt;h4 id=&#34;installation&#34;&gt;Installation&lt;/h4&gt;
 &lt;p&gt;To install the package first you need to install &amp;ldquo;github&amp;rdquo; package:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;net install github, from(&amp;#34;https://haghish.github.io/github/&amp;#34;)
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{stata}&#34; data-lang=&#34;{stata}&#34;&gt;net install github, from(&amp;#34;https://haghish.github.io/github/&amp;#34;)
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Next, to download and install the &amp;ldquo;HEIS&amp;rdquo; package:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;github install Iran-Indicators/HEIS
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{stata}&#34; data-lang=&#34;{stata}&#34;&gt;github install Iran-Indicators/HEIS
 &lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;quick-start&#34;&gt;Quick Start&lt;/h4&gt;
 &lt;p&gt;If you have the dataset; set the directory of your Stata on the folder contains you dataset.&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd &amp;#34;D:\data&amp;#34;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{stata}&#34; data-lang=&#34;{stata}&#34;&gt;cd &amp;#34;D:\data&amp;#34;
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;If not, specify the directory you want to download a dataset and set the &lt;em&gt;data&lt;/em&gt; option &lt;em&gt;&amp;ldquo;true&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;HEIS year, data(&amp;#34;true&amp;#34;)
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{stata}&#34; data-lang=&#34;{stata}&#34;&gt;HEIS year, data(&amp;#34;true&amp;#34;)
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;For some years like 1380-1388, the weight of the observations are not included in the dataset. To solve the problem, you can use option &lt;em&gt;weight&lt;/em&gt; and set it &lt;em&gt;&amp;ldquo;true&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;HEIS year, data(&amp;#34;true&amp;#34;) weight(&amp;#34;true&amp;#34;)
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{stata}&#34; data-lang=&#34;{stata}&#34;&gt;HEIS year, data(&amp;#34;true&amp;#34;) weight(&amp;#34;true&amp;#34;)
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In case you just need the weights:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;HEIS year, weight(&amp;#34;true&amp;#34;)
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{stata}&#34; data-lang=&#34;{stata}&#34;&gt;HEIS year, weight(&amp;#34;true&amp;#34;)
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;For now, the dataset of 1394 is not available yet, but 1381-1400 are available.&lt;/p&gt;
 &lt;h3 id=&#34;license&#34;&gt;License&lt;/h3&gt;
 &lt;p&gt;Academic Free License v3.0&lt;/p&gt;
