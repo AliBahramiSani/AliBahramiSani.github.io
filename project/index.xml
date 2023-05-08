@@ -5,12 +5,37 @@
     <link>https://alibahramisani.github.io/project/</link>
       <atom:link href="https://alibahramisani.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alibahramisani.github.io/media/icon_hu04e901f49443bccd92886cffa13578b4_203533_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://alibahramisani.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>pse Stata Package</title>
+      <link>https://alibahramisani.github.io/project/pse/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://alibahramisani.github.io/project/pse/</guid>
+      <description>&lt;p&gt;&lt;em&gt;v. 1&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;pse--persianarabic-string-encoding&#34;&gt;&lt;code&gt;PSE&lt;/code&gt; : Persian/Arabic String Encoding&lt;/h1&gt;
+&lt;h4 id=&#34;description&#34;&gt;Description&lt;/h4&gt;
+&lt;p&gt;It is a package to standardize the Persian/Arabic letters encoding.&lt;/p&gt;
+&lt;h4 id=&#34;installation&#34;&gt;Installation&lt;/h4&gt;
+&lt;p&gt;To install the package first you need to install &amp;ldquo;github&amp;rdquo; package:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-stata&#34; data-lang=&#34;stata&#34;&gt;net install github, from(&amp;#34;https://haghish.github.io/github/&amp;#34;)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Next, to download and install the &amp;ldquo;pse&amp;rdquo; package:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;github install Iran-Indicators/pse
+&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;quick-start&#34;&gt;Quick Start&lt;/h4&gt;
+&lt;p&gt;Just write the name of your persian/arabic string variable afte the &lt;em&gt;pse&lt;/em&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;pse varname(string)
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;license&#34;&gt;License&lt;/h3&gt;
+&lt;p&gt;Academic Free License v3.0&lt;/p&gt;
+&lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://alibahramisani.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ali Bahrami Sani&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;mailto:Ali_Naghizadeh@yahoo.com&#34;&gt;&lt;strong&gt;Ali Naghizadeh&lt;/strong&gt;&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;mailto:Ali.Bahrami.Sani@gmail.com&#34;&gt;Ali.Bahrami.Sani@gmail.com&lt;/a&gt;, &lt;a href=&#34;mailto:ali_naghizadeh@yahoo.com&#34;&gt;ali_naghizadeh@yahoo.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Development Economics I</title>
