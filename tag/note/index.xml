@@ -5,12 +5,29 @@
     <link>https://alibahramisani.github.io/tag/note/</link>
       <atom:link href="https://alibahramisani.github.io/tag/note/index.xml" rel="self" type="application/rss+xml" />
     <description>note</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alibahramisani.github.io/media/icon_hu04e901f49443bccd92886cffa13578b4_203533_512x512_fill_lanczos_center_3.png</url>
       <title>note</title>
       <link>https://alibahramisani.github.io/tag/note/</link>
     </image>
+    
+    <item>
+      <title>Iran Pollution Data</title>
+      <link>https://alibahramisani.github.io/project/pollution/iranography/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://alibahramisani.github.io/project/pollution/iranography/</guid>
+      <description>
+
+
+&lt;!-- # Iranography --&gt;
+&lt;p&gt;This is a work by &lt;a href=&#34;mailto:%20ghoseirisahand@gmail.com&#34;&gt;&lt;em&gt;Sahand Ghoseiri&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://alibahramisani.github.io/&#34;&gt;&lt;em&gt;Ali Bahrami Sani&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;mailto:%20mortza.mohandes@gmail.com&#34;&gt;&lt;em&gt;Morteza Mohandes Mojarrad&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- The datasets behind the map are public datasets such as Household Expenditure and Income Survey &amp; 2% public sample of Refah dataset wich are available on the web.  --&gt;
+&lt;!-- &lt;iframe width=&#34;700&#34; height=&#34;1000&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34;  src=&#34; https://0vtie6-ali-bahrami0sani.shinyapps.io/Codes/&#34;&gt; &lt;/iframe&gt;  --&gt;
+&lt;iframe width=&#34;700&#34; height=&#34;2400&#34; frameborder=&#34;no&#34; src=&#34; https://0vtie6-ali-bahrami0sani.shinyapps.io/ParticlesSpatialMap/&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Energy Subsidy in Iran</title>
