@@ -207,17 +207,6 @@ Graduate student of economics at TeIAS, Graduate student of economics at TeIAS&l
     </item>
     
     <item>
-      <title>Applied Econometrics</title>
-      <link>https://alibahramisani.github.io/project/appliedecon/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://alibahramisani.github.io/project/appliedecon/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;You can find your grades &lt;a href=&#34;https://github.com/AliBahramiSani/AliBahramiSani.github.io/blob/6ebd8f6f6df547eba39be1b98d8314dcb4ea0f23/Files/Appliec%20Econometrics%20Grades.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Dataset</title>
       <link>https://alibahramisani.github.io/project/example/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
@@ -262,23 +251,6 @@ Graduate student of economics at TeIAS, Graduate student of economics at TeIAS&l
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/AliBahramiSani/AliBahramiSani.github.io/blob/7fba2906f17edd6bed3fb3812631a75b82341535/Files/Exchange%20rate%20shock/Under%20the%20Tyrranny%20of%20a%20Policy-%20report.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Under The Tyrrany of a Policy Report&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Instrumented DD</title>
-      <link>https://alibahramisani.github.io/project/ddiv/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://alibahramisani.github.io/project/ddiv/</guid>
-      <description>&lt;h2 id=&#34;instrumented-dd&#34;&gt;Instrumented DD&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.mit.edu/~liebers/DDIV.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sally Hudson, Peter Hull, and Jack Liebersohn; Interpreting Instrumented Difference-in-Differences&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/16Q-a9xQRU3bX1o8vEmmg4o8X5SlBzi6-/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Clement de Chaisemartin; A note on instrumented difference in differences&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -536,6 +508,76 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alibahramisani.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alibahramisani.github.io/project/appliedecon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alibahramisani.github.io/project/appliedecon/</guid>
+      <description>&lt;h1 id=&#34;---&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;date-2022-06-30t000000z&#34;&gt;date: &amp;ldquo;2022-06-30T00:00:00Z&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;external_link-&#34;&gt;#external_link: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;image&#34;&gt;#image:&lt;/h1&gt;
+&lt;h1 id=&#34;--caption-photo-by-rawpixel-on-unsplash&#34;&gt;#  caption: Photo by rawpixel on Unsplash&lt;/h1&gt;
+&lt;h1 id=&#34;--focal_point-smart&#34;&gt;#  focal_point: Smart&lt;/h1&gt;
+&lt;h1 id=&#34;links&#34;&gt;#links:&lt;/h1&gt;
+&lt;h1 id=&#34;--icon-twitter&#34;&gt;#- icon: twitter&lt;/h1&gt;
+&lt;h1 id=&#34;--icon_pack-fab&#34;&gt;#  icon_pack: fab&lt;/h1&gt;
+&lt;h1 id=&#34;--name-follow&#34;&gt;#  name: Follow&lt;/h1&gt;
+&lt;h1 id=&#34;--url-httpstwittercomgeorgecushen&#34;&gt;#  url: &lt;a href=&#34;https://twitter.com/georgecushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/georgecushen&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;slides-example&#34;&gt;#slides: example&lt;/h1&gt;
+&lt;h1 id=&#34;summary-applied-econometrics&#34;&gt;summary: Applied Econometrics&lt;/h1&gt;
+&lt;h1 id=&#34;tags&#34;&gt;tags:&lt;/h1&gt;
+&lt;h1 id=&#34;--teaching&#34;&gt;- teaching&lt;/h1&gt;
+&lt;h1 id=&#34;title-applied-econometrics&#34;&gt;title: Applied Econometrics&lt;/h1&gt;
+&lt;h1 id=&#34;url_code-&#34;&gt;url_code: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;url_pdf-&#34;&gt;url_pdf: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;url_slides-&#34;&gt;url_slides: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;url_video-&#34;&gt;url_video: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;lang-ar&#34;&gt;lang: ar&lt;/h1&gt;
+&lt;h1 id=&#34;dir-rtl&#34;&gt;dir: rtl&lt;/h1&gt;
+&lt;h1 id=&#34;----1&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;-you-can-find-your-grades-__here__httpsgithubcomalibahramisanialibahramisanigithubioblob6ebd8f6f6df547eba39be1b98d8314dcb4ea0f23filesappliec20econometrics20gradespdf&#34;&gt;* You can find your grades &lt;a href=&#34;https://github.com/AliBahramiSani/AliBahramiSani.github.io/blob/6ebd8f6f6df547eba39be1b98d8314dcb4ea0f23/Files/Appliec%20Econometrics%20Grades.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;HERE&lt;/strong&gt;&lt;/a&gt;.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alibahramisani.github.io/project/ddiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alibahramisani.github.io/project/ddiv/</guid>
+      <description>&lt;h1 id=&#34;---&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;date-2022-06-30t000000z&#34;&gt;date: &amp;ldquo;2022-06-30T00:00:00Z&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;external_link-&#34;&gt;#external_link: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;image&#34;&gt;#image:&lt;/h1&gt;
+&lt;h1 id=&#34;--caption-photo-by-rawpixel-on-unsplash&#34;&gt;#  caption: Photo by rawpixel on Unsplash&lt;/h1&gt;
+&lt;h1 id=&#34;--focal_point-smart&#34;&gt;#  focal_point: Smart&lt;/h1&gt;
+&lt;h1 id=&#34;links&#34;&gt;#links:&lt;/h1&gt;
+&lt;h1 id=&#34;--icon-twitter&#34;&gt;#- icon: twitter&lt;/h1&gt;
+&lt;h1 id=&#34;--icon_pack-fab&#34;&gt;#  icon_pack: fab&lt;/h1&gt;
+&lt;h1 id=&#34;--name-follow&#34;&gt;#  name: Follow&lt;/h1&gt;
+&lt;h1 id=&#34;--url-httpstwittercomgeorgecushen&#34;&gt;#  url: &lt;a href=&#34;https://twitter.com/georgecushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/georgecushen&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;slides-example&#34;&gt;#slides: example&lt;/h1&gt;
+&lt;h1 id=&#34;summary-ddiv&#34;&gt;summary: DDIV&lt;/h1&gt;
+&lt;h1 id=&#34;tags&#34;&gt;tags:&lt;/h1&gt;
+&lt;h1 id=&#34;--material&#34;&gt;- material&lt;/h1&gt;
+&lt;h1 id=&#34;title-instrumented-dd&#34;&gt;title: Instrumented DD&lt;/h1&gt;
+&lt;h1 id=&#34;url_code-&#34;&gt;url_code: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;url_pdf-&#34;&gt;url_pdf: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;url_slides-&#34;&gt;url_slides: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;url_video-&#34;&gt;url_video: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;----1&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h2 id=&#34;instrumented-dd&#34;&gt;Instrumented DD&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mit.edu/~liebers/DDIV.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sally Hudson, Peter Hull, and Jack Liebersohn; Interpreting Instrumented Difference-in-Differences&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/16Q-a9xQRU3bX1o8vEmmg4o8X5SlBzi6-/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Clement de Chaisemartin; A note on instrumented difference in differences&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
