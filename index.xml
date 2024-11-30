@@ -5,12 +5,33 @@
     <link>https://alibahramisani.github.io/</link>
       <atom:link href="https://alibahramisani.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ali Bahrami Sani</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alibahramisani.github.io/media/icon_huf20265a9afcb94bd37f5d347c356f03f_249227_512x512_fill_lanczos_center_3.png</url>
       <title>Ali Bahrami Sani</title>
       <link>https://alibahramisani.github.io/</link>
     </image>
+    
+    <item>
+      <title>Interactive Likelihood Ratio</title>
+      <link>https://alibahramisani.github.io/project/microii_ps4/microii_ps4/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://alibahramisani.github.io/project/microii_ps4/microii_ps4/</guid>
+      <description>
+
+
+&lt;p&gt;These plots represent the likelihood ratio as a function of &lt;span class=&#34;math inline&#34;&gt;\(p^H\)&lt;/span&gt;, visualizing the dynamics of the likelihood ratios for different distributions, including Binary, Exponential, and Mirrlees. This work provides a solution to a question in Problem Set 4 of the course &lt;em&gt;Microeconomics II&lt;/em&gt;, which is part of the Contract Theory module taught by Professor Marcus Opp at the Stockholm School of Economics. The interactive nature of the plots allows for the exploration of how changes in the parameters affect the likelihood ratio, offering a deeper understanding of the theory behind these distributions.&lt;/p&gt;
+&lt;style&gt;
+  iframe {
+    width: 100%;
+    height: 1000px; /* adjust this height based on your needs */
+    border: none;
+  }
+&lt;/style&gt;
+&lt;iframe src=&#34;https://0vtie6-ali-bahrami0sani.shinyapps.io/MicroII_PS4/&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Development, Health and Environment Research Group</title>
